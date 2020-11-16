@@ -1,0 +1,5 @@
+email: eduardomayoyanes@gmail.com
+
+Intro: I'm a Chemist working on drug design. I've been working on docking, binding affinity calculation since my college project. 
+I've been digging in nature inspired algorithms and its applicability on drug design.
+I also love Phisical Chemistry in general. In my free time I like to write some hopefully useful programs. 

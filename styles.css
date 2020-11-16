@@ -1,0 +1,30 @@
+
+/*Load google font*/
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+body{
+background-color: rgb(121, 224, 255);
+font-size: 30px;
+margin:20px 20px 10px 20px;
+/* padding: 20px 20px 20px 20px; */
+
+}
+.name{
+	font-size: 2.0em;
+}
+#intro{
+	padding: 10%;
+	text-align: justify;
+	font-size: 0.7em;
+}
+#portrait{
+	padding-top: 10%;
+	border-radius: 1%;
+	size: 20%;
+
+}
+.container{
+	background-color: white;
+	border-radius: 40px;
+	
+}
