@@ -7,24 +7,33 @@ background-color: rgb(121, 224, 255);
 font-size: 30px;
 margin:20px 20px 10px 20px;
 /* padding: 20px 20px 20px 20px; */
-
 }
 h1{
-	font-size: 1.6em;
+	font-size: 1.8em;
 }
 #intro{
 	padding: 10%;
 	text-align: justify;
 	font-size: 0.4em;
 }
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
 #portrait{
-	padding-top: 10%;
-	border-radius: 1%;
-	size: 20%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	/* size: 50px; */
+	/* border: solid black; */
+	border-radius: 5%;
 
 }
 .container{
 	background-color: white;
-	border-radius: 40px;
-	
+	border-radius: 10px;
+}
+
+p{
+	color: white;
 }
